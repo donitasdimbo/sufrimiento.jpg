@@ -1,5 +1,6 @@
 # sufrimiento.jpg
 trabajo final de la UEA 
+
 El proyecto se llama "desasociego onirico"
 consta de un total de 37 archivos de imagen y sonido 
 los cuales estan involucrados en un codigo de processing que utiliza varios array de imagenes para dar lugar a una animacion 
