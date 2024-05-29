@@ -8,3 +8,5 @@ de igual manera los sonidos que forman parte de los archivos están ligados a la
 el resultado final es una obra interactiva que tiene similitudes a los videojuegos de novela visual con 
 múltiples caminos y para poder interactuar se colocaron teclas en específico para cada una de las animaciones
 lo cual da lugar a múltiples elecciones de caminos.
+
+Para poder visualizar el resultado sugiero ingresar en la carpeta de "Proceso creativo".
